@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "name": "dare0a-node",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bctechnologies/dare0a-node.git"
+  },
+  "scripts": {
+    "test": "node_modules/nodeunit/bin/nodeunit"
+  },
+  "devDependencies": {
+    "nodeunit": "^0.11.1",
+    "xmldom": "^0.1.27",
+    "xpath": "^0.0.24"
+  },
+  "dependencies": {
+    "test": "^0.6.0"
+  }
+}
